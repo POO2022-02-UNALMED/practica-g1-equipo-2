@@ -6,3 +6,6 @@ build/
 .settings
 .idea/
 *__pycache__*
+out/
+practica-g1-equipo-2.iml
+src/baseDatos/temp/tienda.ser
