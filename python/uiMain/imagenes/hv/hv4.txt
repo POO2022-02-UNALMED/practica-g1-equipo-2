@@ -3,5 +3,5 @@ jrestrepomo@unal.edu.co
 La Estrella, Antioquia
 
 Estudiante de Ingenieria de Sistemas e Informatica de la Universidad 
-Nacional de Colombia sede Medellin. Con interes en redes, seguridad informática, desarrollo
-web y administración de servidores.
+Nacional de Colombia sede Medellin. Con interes en redes, seguridad informatica, desarrollo
+web y administracion de servidores.
