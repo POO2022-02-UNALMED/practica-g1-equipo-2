@@ -1,0 +1,7 @@
+Juan Jose Nanclares Cardenas
+jnanclares@unal.edu.co	
+Medellin, Antioquia
+
+Estudiante de Ingenieria de Sistemas de la Universidad Nacional de Colombia sede Medellin.
+Sus intereses estan relacionados con Python y SQL, mas especificamente en la parte 
+de analitica, ciencia de datos y modelamiento estadistico.
